@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '@theme/Layout';
-import ModuleList from '../components/ModuleList';
+import ModuleList from '@site/src/components/ModuleList';
 import Translate from '@docusaurus/Translate';
 
 export default function Modules() {

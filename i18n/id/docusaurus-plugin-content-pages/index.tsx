@@ -6,7 +6,7 @@ import Layout from '@theme/Layout';
 import ModuleList from '@site/src/components/ModuleList';
 import Heading from '@theme/Heading';
 
-import styles from './index.module.css';
+import styles from '@site/src/pages/index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
